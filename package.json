@@ -40,9 +40,11 @@
     "typescript": "^3.4.5"
   },
   "dependencies": {
+    "@types/commander": "^2.12.2",
     "@types/http-errors": "^1.6.1",
     "@types/isomorphic-fetch": "0.0.34",
     "@types/uuid": "^3.4.4",
+    "commander": "^2.20.0",
     "deepkit": "^0.1.1",
     "http-errors": "^1.7.2",
     "isomorphic-fetch": "^2.2.1",
